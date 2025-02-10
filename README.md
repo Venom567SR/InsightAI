@@ -8,12 +8,12 @@ InsightAI is an AI-powered competitor analysis tool that automatically identifie
 
 Check out our demo video to see InsightAI in action:
 
-https://github.com/Venom567SR/InsightAI/media/demo.mp4
+https://github.com/Venom567SR/InsightAI/media/InsightAI_Demo.mp4
 
 ## 🌟 Features
 
 - **Automated Competitor Discovery**: Leverages AI to identify relevant competitors based on company descriptions
-- **Smart Analysis**: Powered by Google Gemini Pro for intelligent processing of market data
+- **Smart Analysis**: Powered by Google Gemini 1.5 Flash for intelligent processing of market data
 - **Interactive Interface**: Built with Streamlit for a user-friendly experience
 - **Advanced Search**: Utilizes Exa API for enhanced market intelligence gathering
 - **Real-time Insights**: Get instant competitor analysis and market positioning
