@@ -4,7 +4,7 @@ InsightAI is an AI-powered competitor analysis tool that automatically identifie
 
 ## 🎥 Demo & Overview
 
-![Project Mind Map](media/mindmap.jpg)
+![Project Mind Map](media/InsightAI_MindMap.jpg)
 
 Check out our demo video to see InsightAI in action:
 
