@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain-google-genai
+exa-py
+python-dotenv
+requests
+pydantic
+python-decouple
