@@ -1,0 +1,86 @@
+/* Main theme colors - using elegant English-inspired colors */
+:root {
+    --royal-blue: #1B4B73;     /* Deep Royal Blue */
+    --sage-green: #8B9D83;     /* Sage Green */
+    --burgundy: #722F37;       /* Burgundy Red */
+    --cream: #F5E6D3;          /* Cream */
+    --slate-grey: #708090;     /* Slate Grey */
+}
+
+/* Header styling */
+.stApp > header {
+    background-color: var(--royal-blue);
+    color: var(--cream);
+}
+
+/* Main container */
+.main {
+    background-color: var(--cream);
+    padding: 2rem;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: var(--slate-grey);
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: var(--burgundy);
+    color: white;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: var(--royal-blue);
+    transform: translateY(-2px);
+}
+
+/* Tabs styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 2rem;
+    background-color: var(--sage-green);
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    color: white;
+    background-color: var(--royal-blue);
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+/* Cards and containers */
+.css-1y4p8pa {
+    border-radius: 10px;
+    background-color: white;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Tables */
+.stTable {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Metrics and KPIs */
+.stMetric {
+    background-color: var(--royal-blue);
+    color: white;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+/* Charts and visualizations */
+.plot-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
