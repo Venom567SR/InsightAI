@@ -8,7 +8,7 @@ InsightAI is an AI-powered competitor analysis tool that automatically identifie
 
 Check out our demo video to see InsightAI in action:
 
-https://github.com/Venom567SR/InsightAI/media/InsightAI_Demo.mp4
+[https://github.com/Venom567SR/InsightAI/media/InsightAI_Demo.mp4](https://github.com/Venom567SR/InsightAI/blob/main/media/InsightAI_Demo.mp4)
 
 ## 🌟 Features
 
